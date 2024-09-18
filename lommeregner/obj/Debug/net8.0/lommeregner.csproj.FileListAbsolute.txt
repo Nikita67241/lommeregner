@@ -1,0 +1,14 @@
+C:\Users\Nikit\source\repos\lommeregner\lommeregner\bin\Debug\net8.0\lommeregner.exe
+C:\Users\Nikit\source\repos\lommeregner\lommeregner\bin\Debug\net8.0\lommeregner.deps.json
+C:\Users\Nikit\source\repos\lommeregner\lommeregner\bin\Debug\net8.0\lommeregner.runtimeconfig.json
+C:\Users\Nikit\source\repos\lommeregner\lommeregner\bin\Debug\net8.0\lommeregner.dll
+C:\Users\Nikit\source\repos\lommeregner\lommeregner\bin\Debug\net8.0\lommeregner.pdb
+C:\Users\Nikit\source\repos\lommeregner\lommeregner\obj\Debug\net8.0\lommeregner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikit\source\repos\lommeregner\lommeregner\obj\Debug\net8.0\lommeregner.AssemblyInfoInputs.cache
+C:\Users\Nikit\source\repos\lommeregner\lommeregner\obj\Debug\net8.0\lommeregner.AssemblyInfo.cs
+C:\Users\Nikit\source\repos\lommeregner\lommeregner\obj\Debug\net8.0\lommeregner.csproj.CoreCompileInputs.cache
+C:\Users\Nikit\source\repos\lommeregner\lommeregner\obj\Debug\net8.0\lommeregner.dll
+C:\Users\Nikit\source\repos\lommeregner\lommeregner\obj\Debug\net8.0\refint\lommeregner.dll
+C:\Users\Nikit\source\repos\lommeregner\lommeregner\obj\Debug\net8.0\lommeregner.pdb
+C:\Users\Nikit\source\repos\lommeregner\lommeregner\obj\Debug\net8.0\lommeregner.genruntimeconfig.cache
+C:\Users\Nikit\source\repos\lommeregner\lommeregner\obj\Debug\net8.0\ref\lommeregner.dll
